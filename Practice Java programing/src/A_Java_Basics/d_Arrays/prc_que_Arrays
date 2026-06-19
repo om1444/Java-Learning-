@@ -1,0 +1,25 @@
+📘 Java Arrays Practice Questions (Basic → Advanced)
+🟢 Basic Level (1–5)
+Write a program to declare an array of 5 integers and print all its elements.
+Write a program to find the sum of all elements in an array.
+Write a program to find the average of array elements.
+Write a program to find the largest element in an array.
+Write a program to find the smallest element in an array.
+🟡 Intermediate Level (6–10)
+Write a program to count even and odd numbers in an array.
+Write a program to search a given element in an array (Linear Search).
+Write a program to reverse an array.
+Write a program to find the second largest element in an array.
+Write a program to sort an array in ascending order without using built-in methods.
+🔴 Advanced Level (11–15)
+Write a program to remove duplicate elements from an array.
+Write a program to merge two arrays into a third array.
+Write a program to rotate an array to the left by one position.
+Write a program to rotate an array to the right by one position.
+Write a program to find the frequency of each element in an array.
+🏆 Challenge Level (16–20)
+Write a program to find the missing number in an array containing numbers from 1 to N.
+Write a program to find duplicate elements in an array.
+Write a program to find the intersection of two arrays.
+Write a program to find the union of two arrays.
+Write a program to find the maximum difference between two elements such that the larger element appears after the smaller element

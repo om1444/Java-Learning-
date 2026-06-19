@@ -1,0 +1,53 @@
+☕ Java Is-A Relationship (Inheritance) Practice Questions (Basic → Advanced)
+
+The Is-A relationship in Java is implemented using inheritance (extends).
+
+Example:
+
+class Animal {
+}
+
+class Dog extends Animal {
+}
+
+Here, Dog IS-A Animal.
+
+🟢 Basic Level (1–5)
+1. Create a class Animal and a class Dog that extends Animal. Display a message from both classes.
+2. Create a class Vehicle and a class Car that inherits from Vehicle. Print vehicle and car details.
+3. Create a class Person and a class Student that extends Person. Display the student's information.
+4. Create a class Shape and a class Circle that inherits from Shape. Calculate the area of the circle.
+5. Create a class Employee and a class Manager that extends Employee. Print employee and manager details.
+🟡 Intermediate Level (6–10)
+6. Create a class Account and a class SavingsAccount that extends Account. Display account details and interest rate.
+7. Create a class Book and a class EBook that extends Book. Print both book and eBook information.
+8. Create a class Appliance and a class WashingMachine that inherits from Appliance.
+9. Create a class Mobile and a class SmartPhone that extends Mobile. Add extra features in the child class.
+10. Create a class Teacher and a class MathTeacher that inherits from Teacher and overrides a method.
+🔴 Advanced Level (11–15)
+11. Create a class Bank and child classes SBI and HDFC. Override the getInterestRate() method.
+12. Create a class Animal with a sound() method and child classes Dog, Cat, and Cow that override the method.
+13. Create a class Employee and child classes Developer and Tester with different salary calculations.
+14. Create a multilevel inheritance example:
+
+Animal → Mammal → Dog
+
+Display methods from all three classes.
+
+15. Create a hierarchical inheritance example:
+
+Vehicle → Car
+Vehicle → Bike
+
+Display details for both child classes.
+
+🏆 Challenge Level (16–20)
+16. Create a class Person and subclasses Teacher, Student, and Principal. Display their specific details.
+17. Create a class Shape and subclasses Rectangle, Circle, and Triangle. Override an area() method in each class.
+18. Create a class Employee and subclasses Manager, Developer, and Intern. Calculate salaries differently for each.
+19. Create a class ElectronicDevice and subclasses Laptop, Mobile, and Tablet with their own features.
+20. Create a multilevel inheritance example:
+
+Person → Employee → Manager
+
+Demonstrate constructor chaining and method overriding.

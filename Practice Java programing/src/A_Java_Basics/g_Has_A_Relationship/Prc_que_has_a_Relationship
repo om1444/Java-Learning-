@@ -1,0 +1,25 @@
+☕ Java Has-A Relationship (Composition/Aggregation) Practice Questions (Basic → Advanced)
+🟢 Basic Level (1–5)
+1. Create a Car class that has an Engine object. Display the engine details.
+2. Create a Student class that has an Address object. Print the student's name and address.
+3. Create a Person class that has a Passport object. Display both person's and passport details.
+4. Create a Book class that has an Author object. Print the book title and author name.
+5. Create a Mobile class that has a Battery object. Display battery capacity and mobile brand.
+🟡 Intermediate Level (6–10)
+6. Create an Employee class that has a Department object. Display employee and department information.
+7. Create a School class that has a Principal object. Print school and principal details.
+8. Create a Laptop class that has a Processor object. Display processor details along with laptop information.
+9. Create a Hospital class that has a Doctor object. Print hospital name and doctor details.
+10. Create a BankAccount class that has a Customer object. Display customer and account details.
+🔴 Advanced Level (11–15)
+11. Create a University class that has many Student objects.
+12. Create a Library class that has many Book objects and display all books.
+13. Create a Company class that has many Employee objects and print all employee details.
+14. Create a Team class that has many Player objects and display the team information.
+15. Create an Order class that has many Product objects and calculate the total bill.
+🏆 Interview Challenge (16–20)
+16. Create a College class that has many Department objects.
+17. Create a House class that has many Room objects and display all room details.
+18. Create a Computer class that has CPU, RAM, and HardDisk objects.
+19. Create a Restaurant class that has many MenuItem objects and print the menu.
+20. Create an ECommerce system where a Customer has many Order objects, and each Order has many Product objects.

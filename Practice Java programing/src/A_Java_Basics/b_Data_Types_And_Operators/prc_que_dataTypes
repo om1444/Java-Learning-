@@ -1,0 +1,71 @@
+🟢 BASIC PRACTICE (1–5)
+🔹 Q1. Print all primitive data types
+
+👉 Declare byte, short, int, long, float, double, char, boolean and print them
+
+🔹 Q2. Add two numbers
+
+👉 Take two int values and print their sum
+
+🔹 Q3. Check even or odd
+
+👉 Use % operator
+
+🔹 Q4. Simple calculator
+
+👉 Take two numbers and perform:
+
++, -, *, /, %
+🔹 Q5. Check greater number
+
+👉 Use relational operators to find greater of two numbers
+
+🟡 INTERMEDIATE PRACTICE (6–10)
+🔹 Q6. Swap two numbers
+👉 Use third variable and also try without third variable
+
+🔹 Q7. Convert data type
+👉 int → double and double → int (type casting)
+
+🔹 Q8. Calculate Simple Interest
+SI = (P * R * T) / 100
+
+🔹 Q9. Check voting eligibility
+👉 Age >= 18 using relational operator
+
+🔹 Q10. Check positive, negative or zero
+👉 Use if + operators
+
+🔴 ADVANCED PRACTICE (11–15)
+🔹 Q11. Ternary operator max
+👉 Find max of two numbers using ?:
+
+🔹 Q12. ASCII value
+👉 Input char and print ASCII value
+
+🔹 Q13. Logical check
+👉 Check if number is between 10 and 100 using &&
+
+🔹 Q14. Output prediction
+int a = 5;
+int b = ++a + a++ + --a;
+System.out.println(b);
+🔹 Q15. Mixed operators
+int x = 10;
+int y = 5;
+int z = x + y * 2 - 3;
+System.out.println(z);
+🏆 BONUS PRACTICE (REAL INTERVIEW STYLE)
+🔥 Q16. Student marks
+👉 Store 3 subjects marks and find average using double
+
+🔥 Q17. Type promotion
+👉 Add byte + int + float and print result
+
+🔥 Q18. Check leap year using operators
+
+🔥 Q19. Salary calculation
+👉 Add bonus using += operator
+
+🔥 Q20. Login check
+👉 username + password match using logical operator

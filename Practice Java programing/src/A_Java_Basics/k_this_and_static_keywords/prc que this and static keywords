@@ -1,0 +1,16 @@
+☕ Java this & static Keywords Practice Questions (10 Only)
+🟢 Basic to Advanced
+1. Use this keyword to resolve variable shadowing in a Student class (id, name).
+2. Create a Student class and use this keyword inside constructor to assign values.
+3. Use this keyword to call one constructor from another constructor (constructor chaining).
+4. Create a method where this is used to call another method in the same class.
+5. Create a Car class and use this keyword to return current object from a method.
+6. Create a Student class with a static variable collegeName and display it for multiple objects.
+7. Create a class Employee with a static variable companyName. Show that it is shared by all objects.
+8. Create a static method display() and call it without creating an object.
+9. Create a Counter class with a static variable count that increases every time an object is created.
+10. Create a class with:
+static variable
+static method
+instance variable
+Show difference between static and this usage.

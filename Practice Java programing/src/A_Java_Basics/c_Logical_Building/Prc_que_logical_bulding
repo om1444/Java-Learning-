@@ -1,0 +1,74 @@
+Java Conditional Statements Practice Questions (Basic → Advanced)
+
+Practice these questions using if, if-else, else-if ladder, nested if, and switch statements.
+
+🟢 Basic Level (1–10)
+1. Check whether a number is positive or negative.
+2. Check whether a number is even or odd.
+3. Check whether a person is eligible to vote (age ≥ 18).
+4. Find the greater of two numbers.
+5. Find the smaller of two numbers.
+6. Check whether a number is divisible by 5.
+7. Check whether a number is divisible by both 3 and 7.
+8. Check whether a character is uppercase or lowercase.
+9. Check whether a character is a vowel or consonant.
+10. Check whether a year is a leap year.
+🟡 Intermediate Level (11–20)
+11. Find the largest among three numbers.
+12. Find the smallest among three numbers.
+13. Check whether a number is a 2-digit, 3-digit, or 4-digit number.
+14. Enter marks and print:
+Distinction (≥75)
+First Class (60–74)
+Second Class (50–59)
+Pass (35–49)
+Fail (<35)
+15. Check whether a number is positive, negative, or zero.
+16. Find the absolute value of a number.
+17. Check whether a character is an alphabet, digit, or special character.
+18. Calculate electricity bill:
+First 100 units: ₹5/unit
+Next 100 units: ₹7/unit
+Above 200 units: ₹10/unit
+19. Calculate salary after adding bonus:
+Salary > 50,000 → 20% bonus
+Otherwise → 10% bonus
+20. Find the maximum among four numbers.
+🔴 Advanced Level (21–30)
+21. Check whether a number is divisible by both 5 and 11.
+22. Check whether three angles can form a triangle.
+23. Check whether three sides form a valid triangle.
+24. Find the type of triangle:
+Equilateral
+Isosceles
+Scalene
+25. Check whether a character is a vowel using switch.
+26. Create a menu-driven calculator using switch:
+Addition
+Subtraction
+Multiplication
+Division
+27. Print the day name using day number (1–7) with switch.
+28. Print the month name using month number (1–12).
+29. Find the largest among five numbers using nested if.
+30. Calculate income tax:
+Income ≤ ₹2,50,000 → No tax
+₹2,50,001–₹5,00,000 → 5%
+₹5,00,001–₹10,00,000 → 20%
+Above ₹10,00,000 → 30%
+🏆 Challenge Questions (31–40)
+31. Check whether a number is a palindrome.
+32. Check whether a number is an Armstrong number.
+33. Check whether a number is a perfect number.
+34. Check whether a number is prime.
+35. Find the second largest among three numbers.
+36. Find the largest among five numbers without using arrays.
+37. Implement a simple ATM menu using switch.
+38. Create a login system that validates username and password.
+39. Build a grading system that also prints remarks:
+A → Excellent
+B → Good
+C → Average
+D → Needs Improvement
+F → Fail
+40. Create a restaurant menu using switch that displays the selected item's price.

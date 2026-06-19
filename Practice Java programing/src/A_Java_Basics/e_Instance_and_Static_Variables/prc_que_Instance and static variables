@@ -1,0 +1,68 @@
+☕ Java Instance Variables and Static Variables Practice Questions (Basic → Advanced)
+🟢 1. Instance Variable
+
+Create a Student class with instance variables id and name. Create two objects and print their values.
+
+🟢 2. Static Variable
+
+Create a Student class with a static variable collegeName = "ABC College" and display it for three students.
+
+🟢 3. Instance vs Static
+
+Create a Car class with:
+
+Instance variables: brand, price
+Static variable: company = "Toyota"
+
+Create two objects and print all details.
+
+🟡 4. Object Counter
+
+Create a class Employee with a static variable count that stores the total number of objects created.
+
+🟡 5. Shared Data
+
+Create a BankAccount class with:
+
+Instance variables: accountNo, balance
+Static variable: bankName
+
+Create three accounts and display the details.
+
+🟡 6. Change Static Variable
+
+Create a School class with a static variable schoolName. Change its value and show that the change is reflected in all objects.
+
+🟠 7. Product Management
+
+Create a Product class with:
+
+Instance variables: productName, price
+Static variable: discount = 10
+
+Calculate and print the final price after applying the discount.
+
+🔴 8. Student Counter
+
+Create a Student class where every new object increases a static variable studentCount. Print the total count after creating 5 students.
+
+🔴 9. Library System
+
+Create a LibraryBook class with:
+
+Instance variables: bookId, bookName
+Static variable: libraryName
+
+Create multiple book objects and display their details.
+
+🏆 10. University Management (Advanced)
+
+Create a University class with:
+
+Static variable: universityName
+Instance variables: studentId, studentName, course
+
+Create at least 3 student objects, display all details, and demonstrate that:
+
+Each object has its own instance variable values.
+All objects share the same static variable value.

@@ -1,0 +1,18 @@
+☕ Java Methods Return Types Practice Questions (10 Only)
+🟢 Basic to Advanced
+1. Write a method that returns an int sum of two numbers.
+2. Write a method that returns a double average of three numbers.
+3. Write a method that returns boolean to check if a number is even.
+4. Write a method that returns int factorial of a number.
+5. Write a method that returns the largest number among two int values.
+6. Write a method that returns a String based on age:
+age ≥ 18 → "Adult"
+else → "Minor"
+7. Write a method that returns char grade based on marks:
+≥90 → A
+≥75 → B
+≥60 → C
+else → F
+8. Write a method that returns int sum of digits of a number.
+9. Write a method that returns boolean to check if a number is prime.
+10. Write a method that returns double area of a circle using radius.

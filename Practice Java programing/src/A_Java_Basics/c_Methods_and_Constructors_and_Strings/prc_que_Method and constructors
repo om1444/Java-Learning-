@@ -1,0 +1,28 @@
+☕ Java Methods and Constructors Practice Questions (10–20)
+🟢 Methods Practice Questions
+1. Write a method add(int a, int b) that returns the sum of two numbers.
+2. Write a method findMax(int a, int b) that returns the larger number.
+3. Write a method isEven(int n) that returns true if the number is even, otherwise false.
+4. Write a method factorial(int n) that returns the factorial of a number.
+5. Write a method isPrime(int n) that checks whether a number is prime.
+6. Write a method sumOfDigits(int n) that returns the sum of all digits of a number.
+7. Write a method reverseNumber(int n) that returns the reverse of a number.
+8. Write a method calculateArea(double radius) that returns the area of a circle.
+9. Write a method printTable(int n) that prints the multiplication table of a number.
+10. Write a method findLargest(int a, int b, int c) that returns the largest among three numbers.
+🔴 Constructors Practice Questions
+11. Create a Student class with a default constructor that prints "Student object created".
+12. Create an Employee class with a parameterized constructor that accepts id and name.
+13. Create a Car class with a constructor that initializes brand and price and displays them.
+14. Create a Book class with a default constructor and a method to display book details.
+15. Create a Laptop class with constructor overloading:
+Default constructor
+Constructor with brand
+Constructor with brand and price
+16. Create a BankAccount class with a constructor that initializes accountNumber and balance.
+17. Create a Rectangle class with a constructor that accepts length and width, then calculates the area.
+18. Create a Circle class with a constructor that accepts radius and prints the area.
+19. Create a Person class with a constructor that accepts name and age, then displays the details.
+20. Create a Calculator class demonstrating constructor overloading with:
+No arguments
+One integer argument

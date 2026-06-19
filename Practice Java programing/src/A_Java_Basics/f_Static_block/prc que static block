@@ -1,0 +1,31 @@
+☕ Java Static Block Practice Questions (Basic → Advanced)
+🟢 Basic Level
+1. Create a class with a static block that prints:
+Static Block Executed
+
+Then create the main() method and observe the output order.
+
+2. Create a class with two static blocks. Print different messages from each block and observe the execution order.
+3. Create a class with:
+One static block
+One constructor
+main() method
+
+Print messages from each and identify the execution sequence.
+
+🟡 Intermediate Level
+4. Create a class with a static variable companyName and initialize it inside a static block. Print its value in main().
+5. Create a class with a static block that initializes an integer array and prints all its elements.
+6. Create a class with two static variables and initialize them inside a static block. Calculate and print their sum.
+7. Create a Student class where the static block initializes the collegeName for all students. Create multiple objects and display the value.
+🔴 Advanced Level
+8. Create a class containing:
+Static block
+Instance block
+Constructor
+main() method
+
+Print messages from each to understand the execution order.
+
+9. Create a class with multiple static blocks that perform different calculations (such as finding the square and cube of a number) before main() executes.
+10. Create a class with a static block that prints a welcome message and initializes a static variable appVersion = "1.0". Print the version from main() and explain why the static block executes before main().

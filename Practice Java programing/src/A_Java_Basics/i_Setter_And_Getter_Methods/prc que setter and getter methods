@@ -1,0 +1,11 @@
+🟢 Basic to Advanced
+1. Create a Student class with private variables id and name. Use getters and setters to set and print values.
+2. Create an Employee class with private variables empId and salary. Access them using getter and setter methods.
+3. Create a Car class with private variables brand and price. Set values using setters and display using getters.
+4. Create a BankAccount class with private variables accountNo and balance. Use getters and setters to update and display data.
+5. Create a Product class with private variables productName and price. Only allow price update if it is greater than 0 (validation in setter).
+6. Create a Student class where age is private. In setter, ensure age is not negative before assigning.
+7. Create a User class with private variables username and password. Do NOT create a getter for password.
+8. Create a Mobile class with private variables brand, model, and price. Use getters and setters to manage data.
+9. Create a Rectangle class with private variables length and width. Use setters and calculate area using a method.
+10. Create a Customer class with private variables customerId, name, and email. Validate email contains "@" before setting it in setter.
